@@ -63,6 +63,7 @@
             },
             "access": {
                 "landingPage": "https://osf.io/k5zb9/",
+                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=k5zb9",
                 "authorizations": [
                     {
                         "value": "public"
