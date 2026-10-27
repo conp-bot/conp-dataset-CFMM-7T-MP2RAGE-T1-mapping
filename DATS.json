@@ -57,13 +57,34 @@
     ],
     "distributions": [
         {
-            "size": 5.5,
+            "title": "Main project files",
+            "size": 5.46,
             "unit": {
                 "value": "GB"
             },
             "access": {
                 "landingPage": "https://osf.io/k5zb9/",
-                "accessURL": "https://files.us.osf.io/v1/resources/znt9d/providers/osfstorage/?zip=k5zb9",
+                "accessURL": "https://files.us.osf.io/v1/resources/k5zb9/providers/osfstorage/?zip=",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        },
+        {
+            "title": "Code (GitHub: royhaast/b1corr-smk)",
+            "identifier": {
+                "identifier": "https://github.com/royhaast/b1corr-smk",
+                "identifierSource": "GitHub"
+            },
+            "size": 2.52,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/k5zb9/",
+                "accessURL": "https://github.com/royhaast/b1corr-smk/archive/refs/heads/master.zip",
                 "authorizations": [
                     {
                         "value": "public"
